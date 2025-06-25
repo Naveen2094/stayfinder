@@ -18,13 +18,13 @@ A modern full-stack web app inspired by Airbnb that allows users to browse, list
 ## 🎨 Screenshots
 
 ### Home Page - Property Listings  
-![Home Page](./server/images/home.png)
+![Home Page](./images/home.png)
 
 ### Explore Page - Browse by City  
-![Explore Page](./server/images/explore.png)
+![Explore Page](./images/explore.png)
 
 ### Booking Page - Confirm Your Stay  
-![Booking Page](./server/images/booking.png)
+![Booking Page](./images/booking.png)
 
 ---
 

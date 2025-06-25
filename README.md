@@ -94,5 +94,3 @@ Feel free to open issues or submit pull requests. Your feedback and contribution
 
 📄 License
 This project is licensed under the MIT License.
-
-Made with ❤️ by Naveen Kumar P

@@ -32,7 +32,7 @@ A modern full-stack web app inspired by Airbnb that allows users to browse, list
 
 - **Frontend:** React, React Router, Axios, Bootstrap  
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose), JWT for authentication  
-- **Database:** MongoDB Atlas / Local MongoDB  
+- **Database:** Local MongoDB  
 
 ---
 
